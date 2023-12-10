@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "197980197586",
+    "project_id": "proyecto-pulsera",
+    "storage_bucket": "proyecto-pulsera.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:197980197586:android:52d9e15ac8c6c64972530b",
+        "android_client_info": {
+          "package_name": "com.miempresa.proyecto_pulsera"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCYcYqSVgLMkwqG1PTd39NUMcISyMQDJqs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
